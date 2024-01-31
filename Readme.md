@@ -1,0 +1,1 @@
+Each Directory has directories corresponding to projects needed for that certifications.
